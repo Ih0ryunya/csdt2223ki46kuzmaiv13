@@ -13,6 +13,6 @@ Repository: csdt2223ki46kuzmaiv13
 
 ## Student name: Kuzma Ihor
 #### Student number: 13 
-#### HW i-face: I2C 
-#### Game: pong 
-#### Data driven format: JSON
+#### HW i-face: SPI 
+#### Game: chrome dragon game
+#### Data driven format: XML
